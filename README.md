@@ -7,6 +7,7 @@
 
 ## Код main:
 <img src="/main.png" width="100%"/>
+
 ## Результат
 <img src="/result.png" width="100%"/>
 
